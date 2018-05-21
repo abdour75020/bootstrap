@@ -1,0 +1,33 @@
+.d-block 
+{
+  max-width: 500px;
+  height: 300px;
+  margin: 0 auto;
+}
+.carousel
+{
+  max-width: 500px;
+  max-height: 500px;
+  margin: 0 auto;
+}
+
+h1
+{
+  text-align: center;
+}
+
+
+.card
+{
+  
+  
+display: inline-block;
+margin-left: 12%;
+margin-top: 5%;
+
+
+  
+
+
+}
+
